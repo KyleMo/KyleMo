@@ -4,7 +4,7 @@ Hi 👋 My name is Kyle Monstad
 I'm a Frontend Engineer
 -----------------------
 
-After graduating from college with an degree in information technology and a big computer science emphasis, I learned my passion lies in front-end development. For the past four years, I've been improving and honing my skills across several technologies, most notably ReactJS and Javascript. I'm also a big fan of social media. Find me documenting my journey on TikTok!
+After graduating from college with an degree in information technology and a heavy computer science emphasis, I learned my passion lies in front-end development. For the past four years, I've been improving and honing my skills across several technologies, most notably ReactJS and Javascript. I'm also a big fan of social media. Find me documenting my journey on TikTok!
 
 * 🌍  I'm based in San Diego, CA
 * 🖥️  See my portfolio at [https://kylemonstad.com/](http://kylemonstad.com/)
