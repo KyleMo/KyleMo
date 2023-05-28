@@ -1,7 +1,7 @@
 Hi 👋 My name is Kyle Monstad
 =============================
 
-I'm a Fullstack Software Engineer
+I'm a Fullstack Engineer
 -----------------------
 
 After graduating from college with an degree in information technology, I learned my passion lies in technology. For the past three years I've improved and developed into a professional software engineer ready to be a valuable asset to any engineering team.
