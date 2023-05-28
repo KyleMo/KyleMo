@@ -1,16 +1,15 @@
 Hi 👋 My name is Kyle Monstad
 =============================
 
-I'm a Frontend Engineer
+I'm a Fullstack Software Engineer
 -----------------------
 
-After graduating from college with an degree in information technology and a heavy computer science emphasis, I learned my passion lies in technology. For the past four years, I've been improving and honing my skills across several technologies, most notably ReactJS and Javascript. I'm also a big fan of social media. Find me documenting my journey on TikTok!
+After graduating from college with an degree in information technology, I learned my passion lies in technology. For the past three years I've improved and developed into a professional software engineer ready to be a valuable asset to any engineering team.
 
-* 🌍  I'm based in San Diego, CA
+* 🌍  I'm based in San Francisco, CA
 * 🖥️  See my portfolio at [https://kylemonstad.com/](http://kylemonstad.com/)
 * ✉️  You can contact me at [monstadkyle@gmail.com](mailto:monstadkyle@gmail.com)
-* 🧠  I'm learning Material UI, Redux, React Native
-* ⚡  I'm outgoing and love interacting with people. Lets get to know each other!
+* 🧠  New technology I'd love to learn more about include Rust and React Native!
 
 ### Skills
 
